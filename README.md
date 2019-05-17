@@ -5,4 +5,3 @@ Powershell ISE theme based on moddifed version of [Sublime Text Powershell ISE T
 <img src="https://i.imgur.com/RdI8UOR.png">
 
 
-WIP - Readme.MD page 
