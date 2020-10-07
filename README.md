@@ -4,6 +4,7 @@ Powershell ISE theme based on moddifed version of [Sublime Text Powershell ISE T
 
 &nbsp;
 
+Save it as **Pro-Dark.StorableColorTheme.ps1xml**
 
 <img src="https://i.imgur.com/RdI8UOR.png">
 
