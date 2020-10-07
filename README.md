@@ -4,7 +4,7 @@ Powershell ISE theme based on moddifed version of [Sublime Text Powershell ISE T
 
 &nbsp;
 
-Save it as **Pro-Dark.StorableColorTheme.ps1xml**
+
 
 <img src="https://i.imgur.com/RdI8UOR.png">
 
@@ -14,7 +14,9 @@ Save it as **Pro-Dark.StorableColorTheme.ps1xml**
 
 1) <a href="https://raw.githubusercontent.com/samersultan/Pro-Dark-Powershell-ISE-Theme/master/Pro-Dark.StorableColorTheme.ps1xml">Download</a> theme file. 
 
-2) Import theme file into Powershell ISE tools-> Options 
+2) Save it as **Pro-Dark.StorableColorTheme.ps1xml**
+
+3) Import theme file into Powershell ISE tools-> Options 
 
 &nbsp;
 
