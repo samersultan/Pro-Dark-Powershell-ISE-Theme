@@ -78,23 +78,23 @@
   <Values>
     <Color>
       <A>255</A>
-      <R>255</R>
+      <R>229</R>
       <G>0</G>
       <B>0</B>
       <ScA>1</ScA>
-      <ScR>1</ScR>
+      <ScR>0.7835378</ScR>
       <ScG>0</ScG>
       <ScB>0</ScB>
     </Color>
     <Color>
       <A>255</A>
-      <R>1</R>
-      <G>36</G>
-      <B>86</B>
+      <R>215</R>
+      <G>215</G>
+      <B>215</B>
       <ScA>1</ScA>
-      <ScR>0.000303527</ScR>
-      <ScG>0.017641956</ScG>
-      <ScB>0.0930589661</ScB>
+      <ScR>0.6795425</ScR>
+      <ScG>0.6795425</ScG>
+      <ScB>0.6795425</ScB>
     </Color>
     <Color>
       <A>255</A>
@@ -158,13 +158,13 @@
     </Color>
     <Color>
       <A>255</A>
-      <R>30</R>
-      <G>30</G>
-      <B>30</B>
+      <R>85</R>
+      <G>85</G>
+      <B>85</B>
       <ScA>1</ScA>
-      <ScR>0.0129830325</ScR>
-      <ScG>0.0129830325</ScG>
-      <ScB>0.0129830325</ScB>
+      <ScR>0.09084172</ScR>
+      <ScG>0.09084172</ScG>
+      <ScB>0.09084172</ScB>
     </Color>
     <Color>
       <A>255</A>
@@ -807,7 +807,7 @@
       <ScB>0</ScB>
     </Color>
   </Values>
-  <Name>Pro Dark - Samer Sultan</Name>
+  <Name>(Customized Theme)</Name>
   <FontFamily>Lucida Console</FontFamily>
   <FontSize>11</FontSize>
 </StorableColorTheme>
